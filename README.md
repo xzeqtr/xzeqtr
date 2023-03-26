@@ -24,3 +24,17 @@ Here are some ideas to get you started:
 [![xzeqtr's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xzeqtr&theme=dark)](https://leetcode.com/xzeqtr/)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzeqtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<table>
+    <tbody>
+        <tr>
+            <td>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&pause=1000&color=31ABE1&width=435&lines=Codewars+stats)](https://git.io/typing-svg)</td>
+            <td>with two columns</td>
+        </tr>
+        <tr>
+            <td>The table body</td>
+            <td>with two columns</td>
+        </tr>
+    </tbody>
+</table>
