@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![codewars](https://www.codewars.com/users/xzeqtr/badges/small)](https://www.codewars.com/users/xzeqtr) 
+[![codewars](https://www.codewars.com/users/xzeqtr/badges/small)](https://www.codewars.com/users/xzeqtr)
+[![xzeqtr's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xzeqtr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
