@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31ABE1&width=435&lines=Codewars+stats)](https://git.io/typing-svg)
 [![codewars](https://www.codewars.com/users/xzeqtr/badges/small)](https://www.codewars.com/users/xzeqtr)
 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31ABE1&width=435&lines=LeetCode+stats)](https://git.io/typing-svg)
 [![xzeqtr's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xzeqtr&theme=dark)](https://leetcode.com/xzeqtr/)
