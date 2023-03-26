@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&pause=1000&color=31ABE1&width=435&lines=LeetCode+stats)](https://git.io/typing-svg)
 <br>
 [![xzeqtr's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xzeqtr&theme=dark)](https://leetcode.com/xzeqtr/)
+<p></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzeqtr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
